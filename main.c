@@ -12,7 +12,7 @@ int main() {
         }
         printf("\n");
     }
-    // printf the costs, aligned left 5 digits pd
+    // printf the costs, aligned left 5 digits pdncj
     for (int i = 0; i < map.y_max; i++)
     {
         for (int j = 0; j < map.x_max; j++)
