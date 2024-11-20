@@ -1,0 +1,13 @@
+# ninja log v6
+34	173	7532717565728900	CMakeFiles/runrovy.dir/queue.c.obj	fcde52d2df55654e
+5	124	7532717565438113	CMakeFiles/runrovy.dir/loc.c.obj	ef40cd079ac58340
+46	372	7536674581110244	CMakeFiles/runrovy.dir/main.c.obj	15aa7eae45699d49
+41	166	7532717565793642	CMakeFiles/runrovy.dir/stack.c.obj	99adcd3abd9047ad
+28	167	7532717565653340	CMakeFiles/runrovy.dir/moves.c.obj	ee84cee1c4085597
+11	482	7536674898029886	build.ninja	81e82f6c28cc0350
+21	189	7532717565590883	CMakeFiles/runrovy.dir/map.c.obj	e3299539cc5741ce
+372	751	7536674584356778	runrovy.exe	e614612ffee8ceb6
+69	183	7536674581322267	CMakeFiles/runrovy.dir/Test.c.obj	e1f8bcdf635f8798
+74	317	7538159446897715	CMakeFiles/runrovy.dir/Test.c.obj	e1f8bcdf635f8798
+52	366	7538159446679451	CMakeFiles/runrovy.dir/moves.c.obj	ee84cee1c4085597
+366	866	7538159449828661	runrovy.exe	e614612ffee8ceb6
