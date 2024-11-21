@@ -1,3 +1,0 @@
-C:/Users/junio/CLionProjects/runrovy/cmake-build-debug/CMakeFiles/runrovy.dir
-C:/Users/junio/CLionProjects/runrovy/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/junio/CLionProjects/runrovy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
